@@ -1,0 +1,10 @@
+{
+  "name": "google-maps-api",
+  "version": "1.0.0",
+  "description": "an API made id vannila for google maps",
+  "main": "main.js",
+  "repository": "git@github.com:iamraghav/Google-Maps-API.git",
+  "author": "iamraghav <raghav3992@gmail.com>",
+  "license": "ISC",
+  "private": false
+}
